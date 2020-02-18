@@ -1,0 +1,6 @@
+install.packages("rmarkdown")
+library("rmarkdown")
+library(dplyr)
+
+
+print("I have installed everything")
